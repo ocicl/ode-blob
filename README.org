@@ -1,0 +1,9 @@
+* ode-blob
+
+Foreign library collection for bodge-ode.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/borodust/ode-blob.git |
+| commit  | cd9e02e                                        |
+| systems | ode-blob                                       |
+|---------+------------------------------------------------|
